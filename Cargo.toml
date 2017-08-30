@@ -2,5 +2,10 @@
 name = "binary_prefix"
 version = "0.1.0"
 authors = ["Caleb Whiting <caleb@whiting.io>"]
+description = "Efficient range queries for prefix-only databases like Redis and S3"
+repository = "https://github.com/whmountains/binary_prefix"
+licence = "MIT"
+licence-file = "LICENCE"
+documentation = "https://docs.rs/rand/"
 
 [dependencies]
