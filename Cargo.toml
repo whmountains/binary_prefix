@@ -1,0 +1,6 @@
+[package]
+name = "binary_prefix"
+version = "0.1.0"
+authors = ["Caleb Whiting <caleb@whiting.io>"]
+
+[dependencies]
