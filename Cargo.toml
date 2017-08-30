@@ -5,7 +5,7 @@ authors = ["Caleb Whiting <caleb@whiting.io>"]
 description = "Efficient range queries for prefix-only databases like Redis and S3"
 repository = "https://github.com/whmountains/binary_prefix"
 license = "MIT"
-license-file = "LICENCE"
+license-file = "LICENSE"
 documentation = "https://docs.rs/rand/"
 
 [dependencies]
